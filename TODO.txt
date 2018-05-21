@@ -1,0 +1,4 @@
+ajustar prediction para mostrar favoritos
+erro no prediction ao clicar em datas
+escrever regras
+pontuação dobrada
